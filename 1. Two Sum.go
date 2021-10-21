@@ -1,5 +1,4 @@
 // core idea
-
 func twoSum(nums []int, target int) []int {
     seen := map[int]int{}
     res := []int{}
